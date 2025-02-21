@@ -1,1 +1,1 @@
-# over-engineering
+# Projeto pessoal para praticar o over engineering, afim de aprender novas ferramentas, praticas e como não fazer um System Design apenas com o que é necessário para um  sistema! (espero não estourar o budget gratuito da aws)
