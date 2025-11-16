@@ -1,7 +1,7 @@
 # Projeto pessoal para praticar o over engineering, afim de aprender novas ferramentas, praticas e como não fazer um System Design apenas com o que é necessário para um  sistema! 
 
 ## 1 Tecnologias e abordagens que vou utilizar, algumas não sei como ainda mas a infra vai ser no GCP
-1 - EKS  
+1 - GKE  
 2 - GitOps
 2 - Terraform  
 3 - Filas  
